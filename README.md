@@ -2,7 +2,7 @@
 Desafios de encriptacion del programa de Oracle-Alura LATAM Segundo Challenge - Desarrollo de una App en Java para la conversion de Divisas.  
 
 <p align="center" dir="auto">
-<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConvertidorDeDivisasUso.png" width="70%">
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConvertidorDeDivisasUso.png" width="100%">
 </p>
 
 ## Descripción
