@@ -6,17 +6,17 @@ Desafios de encriptacion del programa de Oracle-Alura LATAM Segundo Challenge - 
 </p>
 
 ## Descripción
-
 > Challenge ONE Sprint 01: Crea tu propio conversor de moneda.
-> Es el primer desafio del programa ORACLE NEXT EDUCATION, Especialidad BAC KEND, donde empleamos lo visto en el primer módulo, el lenguaje de programación Java: Orientado a Objetos, así como herramientas necesarias que todo desarrollador de software debe contar para el diseño y desarrollo de aplicaciones..
+
+> Es el primer desafio de **la Especialidad BACK END**, donde empleamos lo visto en el primer módulo, el lenguaje de programación Java: Orientado a Objetos, así como herramientas necesarias que todo desarrollador de software debe contar para el diseño y desarrollo de aplicaciones.
 
 ## Uso
 
 Para probar la aplicación da clic [aquí.](https://github.com/JoshVargasM3/AppConvertidorDivisas/blob/main/src/main/java/com/mycompany/mavenproject2/AppConversor.java)
 <p align="center" dir="auto">
   
-<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConvertidorDeDivisas.png" width="40%">
-<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConversorDivisasGif.gif" width="40%">
+
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConversorDivisasGif.gif" width="70%">
 </p>
 
 ### Aplicación
@@ -30,6 +30,8 @@ Después de descargar el proyecto, puede abrir el "**archivo ejecutable: AppConv
 - O bien puede utilizar el programa `APACHE NETBEANS`.
 
 ## Tecnologias utilizadas
+
+Principalmente se desarrollo dentro del IDE de _Apache Neatbeans_, empleando el **lenguaje Java.**
 <p align="center" dir="auto">
 <img align="center" src="https://skills.thijs.gg/icons?i=java,figma,git,eclipse," />
 </p>
@@ -40,6 +42,8 @@ Después de descargar el proyecto, puede abrir el "**archivo ejecutable: AppConv
 - `Convertir de la moneda de tu país a Libras Esterlinas`
 - `Convertir de la moneda de tu país a Yen Japonés`
 - `Convertir de la moneda de tu país a Won sul-coreano`
+
+**Y ademas:**
 
 - `Convertir de Dólar a la moneda de tu país`
 - `Convertir de Euros a la moneda de tu país`
@@ -58,7 +62,7 @@ Después de descargar el proyecto, puede abrir el "**archivo ejecutable: AppConv
 
 ## Agradecimientos
 
-- ONE – Oracle Next Education
+- **ONE – Oracle Next Education**
 - [Alura](https://www.aluracursos.com/)
 
 <!--HACKER-IMAGES--> 
