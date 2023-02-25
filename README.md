@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConvertidorDeDivisasUso.png" width="70%">
 # Challenge ONE-ORACLE NEXT EDUCATION: AppConvertidorDivisas
 Desafios de encriptacion del programa de Oracle-Alura LATAM Segundo Challenge - Desarrollo de una App en Java para la conversion de Divisas.  
 
