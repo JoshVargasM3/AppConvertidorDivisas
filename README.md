@@ -15,6 +15,7 @@ Desafios de encriptacion del programa de Oracle-Alura LATAM Segundo Challenge - 
 Para probar la aplicación da clic [aquí.](https://github.com/JoshVargasM3/AppConvertidorDivisas/blob/main/src/main/java/com/mycompany/mavenproject2/AppConversor.java)
 <p align="center" dir="auto">
 <img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConvertidorDeDivisasUso.png" width="50%">
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConversorDivisasGif.gif" >
 </p>
 
 ### Aplicación
